@@ -1,0 +1,9 @@
+.vs/
+JSBuild/bin/
+JSBuild/obj/
+JSBuildConsole/bin/
+JSBuildConsole/obj/Debug/
+JSBuildConsole/obj/
+JSBuildLib/obj/
+JSBuildLib/bin/Debug/
+JSBuildLib/bin/Release/
